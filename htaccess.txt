@@ -1,0 +1,16 @@
+ErrorDocument 400 /error/?cls=400
+ErrorDocument 401 /error/?cls=401
+ErrorDocument 402 /error/?cls=402
+ErrorDocument 403 /error/?cls=403
+ErrorDocument 404 /error/?cls=404
+ErrorDocument 405 /error/?cls=405
+ErrorDocument 406 /error/?cls=406
+ErrorDocument 407 /error/?cls=407
+ErrorDocument 408 /error/?cls=408
+ErrorDocument 409 /error/?cls=409
+ErrorDocument 414 /error/?cls=414
+ErrorDocument 418 /error/?cls=418
+ErrorDocument 426 /error/?cls=426
+ErrorDocument 500 /error/?cls=500
+ErrorDocument 501 /error/?cls=500
+ErrorDocument 508 /error/?cls=508
